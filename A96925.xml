@@ -1,0 +1,207 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A word to purpose: or, A Parthian dart, shot back to 1642, and from thence shot back again to 1659. swiftly glancing upon some remarkable occurrences of the times; and now sticks fast in two substantial queries, I. concerning the legality of the second meeting of some of the Long-Parliament-Members. Also, a fools bolt shot into Wallingford House, by as good a friend to England, as any is there, concerning a free state.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 29 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96925</idno>
+            <idno type="STC">Wing W3566</idno>
+            <idno type="STC">Thomason E985_9</idno>
+            <idno type="STC">ESTC R204153</idno>
+            <idno type="EEBO-CITATION">99863840</idno>
+            <idno type="PROQUEST">99863840</idno>
+            <idno type="VID">116055</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96925)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 116055)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 146:E985[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A word to purpose: or, A Parthian dart, shot back to 1642, and from thence shot back again to 1659. swiftly glancing upon some remarkable occurrences of the times; and now sticks fast in two substantial queries, I. concerning the legality of the second meeting of some of the Long-Parliament-Members. Also, a fools bolt shot into Wallingford House, by as good a friend to England, as any is there, concerning a free state.</title>
+               </titleStmt>
+               <extent>[2], 6, 9-15, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed 1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "June 2".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Parliament --  History, (17th century) --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:116055:1" rendition="simple:additions"/>
+            <p>A WORD to Purpoſe: Or, A <hi>Parthian Dart,</hi> Shot back to 1642, and from thence ſhot back again to 1659. ſwiftly glancing upon ſome remarkable Occurrences of the Times; and now ſticks faſt in two Subſtantial QUERIES,</p>
+            <p>I. Concerning The Legality of the Second Meet<g ref="char:EOLhyphen"/>ing of ſome of the Long <hi>-Parliament-Members.</hi>
+            </p>
+            <p>ALSO, A Fools Bolt ſhot into <hi>Wallingford</hi> Houſe, by as good a Friend to <hi>England,</hi> as any is there, concerning A Free State.</p>
+            <p>
+               <hi>Printed</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:116055:2"/>
+            <pb n="1" facs="tcp:116055:2"/>
+            <head>A Word to purpoſe, OR A <hi>Parthian Dart,</hi> ſhot back to 1642. and from thence ſhot back again to 165<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> &amp;c.</head>
+            <div type="part">
+               <head>I. Whether the men met together in the Houſe at <hi>Weſtminſter,</hi> where uſually the Commons ſate; be at this day a lawful Par<g ref="char:EOLhyphen"/>liament, according to the Fundamentall laws of this Nation: to binde the people to obey their Commands.</head>
+               <head type="sub">The Grounds of my Scruple are theſe:</head>
+               <p>
+                  <hi>Query</hi> I.</p>
+               <p n="1">I. ADmitting the Power to be a derivative from the People originally, either by Requeſt and Election precedent, or Agreement and Conſent ſubſequent, which is all one; and thereby a Supremacy of Power is lodged and fixed ſomewhere in one or more Perſons, who hath in him or them the Appointment of a ſeaſon for the Commons to Elect their Repreſentatives, and ſend them up to Conſult according to our long continued Laws (though the Commons Repreſentatives were not in former time known, but by the Notion of Petitioners) with the other two Eſtates; their Au<g ref="char:EOLhyphen"/>thority and Warrant which they receive from the People, is not expreſſed but implyed, with this difference; their gene<g ref="char:EOLhyphen"/>ral Authority is expreſſed indeed, which anſwers the VVrit of Summons, to Conſult, <hi>&amp;c.</hi> I ſay expreſſed, becauſe by their actions in Electing, according to the Writ, they expreſſe them<g ref="char:EOLhyphen"/>ſelves: But the Authority in law or implyed, is this;
+<list>
+                     <item>Firſt, To make Laws for the good of the People.</item>
+                     <item>Secondly, According to the antient cuſtome.</item>
+                  </list>
+               </p>
+               <pb n="2" facs="tcp:116055:3"/>
+               <p n="1">1. Of this Realm, that is, not to make laws to undoe the People, not to make laws to deſtroy the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eople, not to make laws to perpetuate heavy burthens upon the People.</p>
+               <p n="2">2. According to the Antient cuſtoms of this Realm, that is, to joyn with their Fellows, not to grow peremptory and ſaw<g ref="char:EOLhyphen"/>cy, and Rebellious againſt their Superiours in Honour and Dignity, though at that time equall onely with themſelves in Power, not to violate the known and antiently renewed Priviledges, which any of the other Eſtates hath been long endowed with; and that by the <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onſent of their Maſters that ſent them thither, not to enforce their Fellows to conſent to an Act againſt Reaſon, againſt their own Truſts, againſt the Obedience that they have bound themſelves to by Oath, and that all, ſo that Elected them, are alſo bound by Oath to with many others; which if they doe, they forfeit their Truſts. Now to prove their implyed Commiſſion runs in this channel, I ſay, Firſt, all Parliaments ever went according to theſe rules, which is Argument enough: Our Laws and Liberties (which people prate of and miſtake) have no other Authority than the common and conſtant cuſtom of the men of this Nation.</p>
+               <p>Secondly, Is it not againſt ſenſe and reaſon, that men ſhould give others a Power to Undoe, Deſtroy, or Oppreſſe themſelves? And can it be imagined that when the King ſends his Writs out for ſummoning of a Parliament, conſiſting of Lords and Commons, according to the Antient Uſage of this Realm, and the People ſending their Repreſentatives accor<g ref="char:EOLhyphen"/>dingly to adviſe with the other Eſtates; but that the People intended they ſhould proceed according to the antient Rules and Preſcripts of Government, to acknowledge the Supre<g ref="char:EOLhyphen"/>macy of the ſingle Perſon, inveſted abſolutely without any Power of Revocation, with ſeverall Prerogatives and Immuni<g ref="char:EOLhyphen"/>ties befitting, neceſſary and of abſolute Import for the Gran<g ref="char:EOLhyphen"/>deur, Honour and Serenity of his Perſon, with Power in a mo<g ref="char:EOLhyphen"/>derate meaſure for diſcharging his Place, in putting in execu<g ref="char:EOLhyphen"/>tion of Laws in intervals; alſo to acknowledge the decent precedency of the other Eſtate, differenced onely from them i<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> the point of Honor, &amp; lovingly, religiouſly and faithfully to joyn with them in eſtabliſhing Laws, for the mutuall good one of another, and all the reſt whoſe Truſts they execute. Can
+<pb n="3" facs="tcp:116055:3"/>it be imagined that the People intended, when they ſent their Repreſentatives up to <hi>London,</hi> at the beginning of the Long Parliament; that they or one of them did or durſt think of turning out the Houſe of Lords; equall to themſelves in law<g ref="char:EOLhyphen"/>full Power? Of turning out one half of themſelves, equall to themſelves? Of Depoſing the King, to whom all had ſworn Allegiance? Beſides of a multitude of more inferiour hideous actions: I am confident, no ſuch thing was thought (yet as to the Biſhops, I do not affirm ſo much, nor do I count that act, being done by the three Eſtates any more than the excluding Abbots and Priors) then if theſe things were not thought of; certainly Authority to do ſuch things were never given by the People; then it follows, that if the Repreſentatives do exceed their Commiſſions, and proceed contrary to the rules before mentioned, it is not obligatory; now I intend they exceed their Commiſſions; when they act any thing contrary to Reaſon, Religion, the Peace of the Nation, the Fundamentals of ſet<g ref="char:EOLhyphen"/>tled government, or impoſſible; ſome of all which, though en<g ref="char:EOLhyphen"/>acted by the three Eſtates, the learned in the Law knows binde not; And indeed I am of opinion, and many more, therefore ſhall not go about to prove it, That the Houſe of Commons at firſt lawfully Aſſembled, did after 642. obtrude all theſe in<g ref="char:EOLhyphen"/>congruities, Abſurdities, Cheates and Villanies upon the Peo<g ref="char:EOLhyphen"/>ple of this Nation, and ſo forfeited their Authorities. But admitting that my Bailiffe whom I imployed to mannage my eſtate for me, will fall out with ſome that I have dealing with, and without my warrant ſue, bring to tryall and recover <hi>(per fas vel nefas)</hi> ſomething for me, under colour all this while of my Authority, and in my name, and further takes out exe<g ref="char:EOLhyphen"/>cution, and poſſeſſes himſelf of the other mans goods, and pre<g ref="char:EOLhyphen"/>tends for my uſe, yet keeps them to his own; and ſayes all this is by my Warrant, when in truth I was againſt it: And admitting all this to be lawfull, and that my Warrant iuſtifies all he hath done; yet if I die, my Books tell me the Warrant is determined as to the executory part of it. Now I conceive, the death of the King determined, what pretence the Long Parliament could poſſibly have to act as a Parliament? for his death determines all Commiſſions, all Writs derived from him to hold at Will; ſo that the very Writ whereby they were ſum<g ref="char:EOLhyphen"/>moned
+<pb n="4" facs="tcp:116055:4"/>is by his death determined and of no force; then the ſuperſtructure muſt fall; beſides (which is a great argument) with many) who every knew a Parliament, a Committee, or other like inferiour Commiſſionated Court, to hold after the the death or determination of him or them under whom they derive their Power? and if the Act of perpetuating themſelves be throwne in my Diſh, Ile throw that into the houſe of office, uſing it as other waſte paper:</p>
+               <p>For firſt, I hold that Act void in its Creation, and yet ſhall not hint that ſecret force that made it an Act; but as I ſaid before: Acts againſt Reaſon and the Fundamentals of that Government, which Impowers them to act, are void; and therefore if the three Eſtates had Enacted that there is no King or Houſe of Lords in theſe three Nations, this had been void, and a contradiction, that that Act ſhould take away the Power that made it an Act; when tis moſt certain, that if that be an Act, the King is a King, and ſo they are <hi>relata.</hi> So of Acts a<g ref="char:EOLhyphen"/>gainſt Reaſon, that ſhould enact that there ſhould be no King in <hi>England, &amp;c.</hi> after ſuch a day; this though ſigned by the three Eſtates is void; for alteration of Government was ne<g ref="char:EOLhyphen"/>ver in their Commiſſion, unleſſe expreſſed, which had it been, it would have been Treaſon. Impoſſible Act, your own feeble ſenſe will tell you are void, and you need not to ſee the Com<g ref="char:EOLhyphen"/>ment by <hi>Cocke</hi> upon 35. <hi>E.</hi> 1. which Act would have had the common Seal of the Orders of <hi>Ciſtercians, &amp;c.</hi> to be in the cu<g ref="char:EOLhyphen"/>ſtody of the Prior, and of the foure of the diſcreeteſt of the Covent, ſealed up with the Privy Seal of the Abbot; and if any Writing ſhould be ſe led with any other ſeal than with the ſaid common Seal; ſo (as is aforeſaid) kept in cuſtody, it ſhould be void: Now obſerve, if it be kept in cuſtody under the Seale of the Abbot, then no Writing can be ſealed by the Abbot, and if the Abbot takes it out and ſeale, &amp;c. then, &amp;c. not kept in cuſtody under his Privy Seal, this you may ſee in the printed Book, and is called <hi>de Aſportatu religioſorum,</hi> I pray mind it, theress good matter to be learned from thence: Now to Ap<g ref="char:EOLhyphen"/>ply theſe things, I conceive, an Act of Parliament to perpe<g ref="char:EOLhyphen"/>tuate themſelves a Parliament, is as abſurd, as to enact that there never ſhould be a Parliament again: I know the laſt will
+<pb n="5" facs="tcp:116055:4"/>be noted void by the Keepers of the Liberties, and doubtleſs its void as againſt their Commiſſions. And therefore if I leave lands to <hi>I. S.</hi> ſo long as <hi>I. N.</hi> ſhall think fit; and <hi>I. N.</hi> ſayes he thinks fit, he ſhall have it to him and his heirs, this is void in law, as to the perpetuity of it, and never was intended be<g ref="char:EOLhyphen"/>tween the parties.</p>
+               <p>But admitting that alſo the act good, yet Acts muſt be con<g ref="char:EOLhyphen"/>ſtrued according to the intent of the Maker, a certain rule: Now we well know, and ſo do you, and thoſe unruly Members know too, that the intent of the Makers on no ſides was that the Parliament ſhould continue for ever; nor that it ſhould not ceaſe by a legall determination, ſuch as is the Kings death, but onely that the King ſhould not break them up till they had eaſed the grievances of the people, and that they might ſit a convenient time for doing the ſervice of the Country, this is the true meaning of it, you know well enough, and this agrees with the right interpretation of other Acts of Parliament.</p>
+               <p>But admitting that alſo, yet me thinks the Excluſion of half of themſelves, ſhould hugely abate the legality of their power, and infringe the priviledges and native Rights of the People, who ſhould ſit in Parliament by their Repreſentatives, but thats a ſmall one, I paſſe it over.</p>
+               <p>But further, I have heard that a Parliamen diſcontinued is diſſolved; which was the opinion of Chief Juſtice <hi>Roll</hi> and Juſtice <hi>Aske,</hi> two men as indulgent to the deſignes of the Keepers of our Liberties from us, as they can finde out again: and this they declared in Captain <hi>Streaters</hi> Caſe, one of your own diſciples: Then your Aſſembly being not adjourned is diſcontinued and ſo diſſolved.</p>
+               <p>Juſt now, I fancy ſome may object, a Force in that caſe, doe ſo and I'le Anſwer it; but in the mean time, if it were a force, and that Aſſembly a Parliament, it was Treaſon; and I will never believe it to be a Force, till I ſee ſome of the Offenders hanged; and if that ſhould come to paſs, it would go hard with moſt of thoſe that called them together again.</p>
+               <p>But admitting all this, yet there is one thing more that makes me <hi>Querie;</hi> And that is this: Generally and regularly, the King hath Power to Diſſolve; and when the King is taken away, that
+<pb n="6" facs="tcp:116055:5"/>Power devolves upon the People, this I ſuppoſe muſt be gran<g ref="char:EOLhyphen"/>ted; elſe let the Commons cut off their King, and they have <hi>ipſo facto,</hi> at the ſame inſtant made themſelves an everlaſting Parliament, without the help of a ſpecious Act; then ad<g ref="char:EOLhyphen"/>mitting that the King was bound by that Act, as <hi>ſub moda,</hi> I agree he was: Now the King is taken away, who is now Found by it? the Keepers of the Liberties, <hi>&amp;c.</hi> Thats no ſenſe, that the Keepers ſhould be bound not to diſſolve the Keepers, without the conſent of the Keepers, and they are <hi>de facto,</hi> now the only Succeſſion of the King; then it falls out now that Act is void, then hath nobody power to Diſſolve; Yes the Soul<g ref="char:EOLhyphen"/>diers, <hi>probatum eſt:</hi> But I mean lawfull Power? Yes, the People: And therefore I liken it to this Caſe.</p>
+               <p n="1">I. enfe off <hi>I. S.</hi> in Fee of certain Lands, upon condition that he ſhall pay a certain ſumme of money yearly to <hi>I. N.</hi> And he doth not pay, who ſhall take advantage of the Condition? <hi>I. N.</hi> cannot, the law diſables him, for none can take advantage of a Condition but he from whom the eſtate moves: then it fol<g ref="char:EOLhyphen"/>lows that <hi>I. S.</hi> muſt if any: and ſo be may by law, though there be no clauſe of reentry by him for condition broken. This is our caſe, the people choſe their repreſentatives, and gave them a Commiſſion before remembred, but with a condition annexed thereto, that the King ſhould take advantage of it upon occaſion, Now know that the King is not a ſtranger as <hi>I. N.</hi> is in the former caſe, but he joyning by his Writ with the people, is become as party to the deed, and ſo may have a con<g ref="char:EOLhyphen"/>dicion reſerved to him; beſides the caſes will thus differ, that ancient Common-Law of <hi>England</hi> (older than Commons ſit<g ref="char:EOLhyphen"/>ting in Parliament) hath endowed the King therewith. But our Keepers made that impoſſible to be done by no Law, which the Law made Impoſſible to be done in caſe of <hi>I. N.</hi> So that they that gave the Authority muſt countermand and re<g ref="char:EOLhyphen"/>ſume it again, if they can, they may certainly, for no Autho<g ref="char:EOLhyphen"/>rity whatſoever, but is countermandeable. Now what if the people have countermanded this Authority, and that by the conſent of themſelves or moſt of them? One would think this would make it clear: Then lets conſider, There is a Counter<g ref="char:EOLhyphen"/>mand expreſſe, and a Countermand in law or implied: Now by both theſe, the people have Countermanded their Autho-</p>
+               <pb n="9" facs="tcp:116055:5"/>
+               <p>Firſt, Expreſſely, then know an expreſs countermand, is ei<g ref="char:EOLhyphen"/>ther <hi>per alium</hi> or <hi>per ſe,</hi> either in perſon, or by others; and a countermand by others is either by command precedent, or agreement ſubſequent; and all theſe as firm in law one as the other; and that which makes for our purpoſe is no more, but this caſe: <hi>I</hi> reenter for condition broken by another; or ano<g ref="char:EOLhyphen"/>ther reenters in his own name, and <hi>I</hi> agree to it; this may be done by law.</p>
+               <p>Now then <hi>Oliver Cromwell</hi> pulled thoſe whipſters out by the ears, (and did them no wrong, ſay ſome, for he might as well turn them out, as they turn him out, that had better right; and he might as well Govern as they, having as good Autho<g ref="char:EOLhyphen"/>rity and better, comming neerer the old model) but let this Act be lawfull or not lawfull (and ſome ſay no publick Act this ſixteen years hath been lawfull) Yet if he hath the agree<g ref="char:EOLhyphen"/>ment ſubſequent of the People to it, that makes it doubtleſſe lawfull: And that agreement is very obvious.</p>
+               <p>Firſt, The Saints agreed to it, that is to ſay, the Army, ask <hi>Lambert</hi> elſe, next the godly party in the Country agreed to it, as appears by their ſpeedy ſcudding up to <hi>Weſtminſter</hi> into the ſame place and confirmed it over and over: next, all the people of the three Nations agreed to it, in choſing a new Re<g ref="char:EOLhyphen"/>preſentative to Congratulate <hi>Oliver,</hi> for the good ſervice; and to give him ſome handſome gratuity for his pains, which ac<g ref="char:EOLhyphen"/>cordingly was done, and that more than once, and with great ſolemnity; and not onely to him, but to his Son, and that with as great ſolemnity and as unanimouſly as ever any Prince could be enthroned: And if I may ſpeak the ſenſe of all that ever I came neer ſince that time, I never heard one man ſpeak concerning it, but heartily rejoyced, that the yoak was taken off their necks. But again, let the Deſignes of <hi>Oliver</hi> be what they would; yet the Peoples chuſing new Repreſentatives, as oft as occaſion was offered; is clearly an implyed counter<g ref="char:EOLhyphen"/>mand of the Commiſſion of the former; For two ſort of men cannot be commiſſionated ſeverally to doe the ſame thing, but the firſt are countermanded by the laſt, if they be counter<g ref="char:EOLhyphen"/>mandable; and the laſt are void, if the other be not counter<g ref="char:EOLhyphen"/>mandable: Now all theſe ſeveral choiſes of Repreſentatives
+<pb n="10" facs="tcp:116055:6"/>were to doe the ſame thing, that is, to tranſact the great, Af<g ref="char:EOLhyphen"/>faires of the Nation, which Authority is countermandable, draw hence the Concluſion, <hi>&amp;c.</hi>
+               </p>
+               <p>And further, Its evident the Army agreed to all this, and ſo did a great many of thoſe few that meet now in the Parlia<g ref="char:EOLhyphen"/>ment houſe, who ſate more than once in the ſame place they now fit in, by virtue of the Peoples new choiſe; which ſome, if not all, made, contrived and contended for; and after made Laws to confirm the then Protector, which doubtleſſe ſhews plainly, that they took the former long Aſſembly to be deter<g ref="char:EOLhyphen"/>mined; and by their actings, are by Law eſtopped and conclu<g ref="char:EOLhyphen"/>ded: To ſay otherwiſe, like to this caſe in Law; Leſſee for many years by a good Leaſe accepts from his Leſſor a void Leaſe; that is, a ſurrender and determination of his former good Leaſe; for by his acceptance, he hath admitted the Leſ<g ref="char:EOLhyphen"/>ſor to have a power to make another Contract, which muſt work a ſurrender of his former, otherwiſe there could be no new contract: So it is here; which Note.</p>
+               <p>So now the grounds of my ſcruple being theſe, That its con<g ref="char:EOLhyphen"/>ceived generally, that the long Parliament forfeited their Truſts and Authorities, by going beyond their Commiſſions, notwithſtanding the Act of not Diſſolving, <hi>&amp;c.</hi> made by the three Eſtates: Or elſe that they determined by the death of the King? However their Power determined as to make Acts? Or elſe they determined by their diſcontinuance? or elſe by the Peoples reſeiſing their Authority, and granting it to others, which they would not have done, had they intended the ſame ſhould have continued: And had the Act of <hi>Oliver</hi> in Diſſol<g ref="char:EOLhyphen"/>ving them not been acceptable to the People, he had not ſat ſo ſure as he did. I muſt ingenuouſly ſay, I cannot ſee (unleſs I be further enlightned, which I wiſh ſome would endeavour) how this preſent meeting in the Parliament Houſe, ſhould amount to a Parliament?</p>
+               <p>But miſtake me not, I offer not this to publike view to breed contentions, ſtirs and debates in the Land, we are like to have enough of them beſides: but my main end is to have ſome ſatisfaction; and that a thing of ſo great moment to the people may be ſettled and reſolved, and the conſciences of
+<pb n="11" facs="tcp:116055:6"/>many quieted: For how can it be imagined, that the people ſhould be obedient, when they doubt the grounds of the ſu<g ref="char:EOLhyphen"/>pream Authority? And what compliance other than a paſſive ſubmiſſion can be expected, when an Uſurped, confuſed, un<g ref="char:EOLhyphen"/>limited, rude and groundleſs power ſhall obtrude themſelves upon the Rights, Liberties and Native priviledges of the peo<g ref="char:EOLhyphen"/>ple? When a diſorderly, unaccountable and unwarrantable procedure is ſet on foot by a company unauthorized inferiour ſpirits? To whom ſad experience hath dictated, that no truſt or heed is to be given; becauſe their whole proceedings have been violent, their own judgements unſettled, their pre<g ref="char:EOLhyphen"/>tences but pretences; their thoughts conceits, and their whole practiſe contradictions. But now on the other ſide, can they aſſure us of hopes of a ſettled Government, and ſome advan<g ref="char:EOLhyphen"/>tage to the publike by their changes? They ſhall have my Vote to be once more entruſted: But give me leave to offer one Query more.</p>
+            </div>
+            <div type="part">
+               <head>Whether as things now ſtand, it is likely we ſhould compaſs the deſigne of ſetting up a Free State?
+The grounds and inducements to this query are theſe:
+<list>
+                     <item>Firſt, in reſpect of thoſe that are to doe it by greateſt pretence:</item>
+                     <item>Secondly, In reſpect of thoſe that would doe it without any pretence.</item>
+                     <item>Thirdly, In reſpect of the thing it ſelf to be done.</item>
+                  </list>
+               </head>
+               <p>Firſt, They that are to do it, if any, muſt be the men met at the Parliament Houſe: Now as to them conſider how their Power ſtands; for if it fall out, that they go on in an un<g ref="char:EOLhyphen"/>authoritative way, what they do will not long ſtand? witneſſe all the unwarrantable Attempts and Acts, that have been at<g ref="char:EOLhyphen"/>tempted or acted from the firſt Rebellion; if all or moſt have not been oppoſed, contradicted, and many nulled by after contrary actions? Then again conſider their ſpirits and tem<g ref="char:EOLhyphen"/>pers, are they not diſſatisfied, diſtaſted and diſtempered ſpirits, are they not fiery tongues onely, that is, are they not zealous without knowledge? When they that ſit at the Helm
+<pb n="12" facs="tcp:116055:7"/>of Government ſhould have cloven tongues alſo? that is, knowledge to diſcern truth from errour; and know that know<g ref="char:EOLhyphen"/>ledge without zeale is like a Ship without a <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ayle, and zeale without knowledge, is like a ſhip under ſaile without a Pilot: Alſo are they not men too much biaſſed to private Intereſts? do they not call the long Parliament-time a bleſſed time, be<g ref="char:EOLhyphen"/>cauſe ſome of them could make ſhift to bleſſe themſelves with above twenty thouſand pounds <hi>per ann.</hi> and the other with faire eſtates? And is not this the deſigne of them to return willingly till the reſidue of the Land unſold be <hi>viis &amp; modis</hi> brought into their own clutches, at leaſt good gratuities? ſee the hiſtory of Independency.</p>
+               <p>Are they men acquainted with a Free-ſtate, or underſtood the meaning thereof? Or where could they learne it, unleſs by ſome Jeſuits Inſinuation? I'm confident they never found a jot concerning it in the Houſe they ſit in, and where they are deſirous to ſpend their dayes.</p>
+               <p>Secondly, In reſpect of the men that would do it without any pretence whatſoever, that is the Army. Now conſider, was ever a long laſting Government eſtabliſhed by an Army? Was there ever any Religion in an Army? Can we think an Army, which hath for many years burthened, oppreſſed, impoveriſhed and almoſt ruined the people, ſhould ſet up a Government. Eſpecially whileſt they themſelves acknowledge a Power above them, or can a Parliament do it, when they know there is in truth a power above them? Can they both do it, when they cannot agree? Do the men in the Parliament-Houſe ſignify any more than the man that ſtands upon the Clock in <hi>Weſtminſter Abbey</hi> with the Hammer in his hand, and when the Iron wheeles bid him ſtrike, he ſtrikes: Hath it not been ſo (at leaſt ſince 1648.) between the Army and Parlia<g ref="char:EOLhyphen"/>ment (as it its called) durſt they ever do any thing contrary to the minde of the Army? Yea, they did, and were alwayes chidden, ſometimes beaten for their paines. Do the Souldi<g ref="char:EOLhyphen"/>ers know what they would have? Yes, Money, Great eſtates, and nothing elſe? Yes Honour, and would every one be ru<g ref="char:EOLhyphen"/>lers in cheif, and would play Level-coyle with the Govern<g ref="char:EOLhyphen"/>ment, and ſo play the Foole or Knave with the people? How is it poſſible to imagine that ſo many hotſpurs that ſtand in
+<pb n="13" facs="tcp:116055:7"/>
+                  <hi>equali Gradu</hi> one to the other, ſhould ever agree in a ſuprema<g ref="char:EOLhyphen"/>cy? <hi>Oliver</hi> we know was as hot as theſe, with as faire pretenſes, but nothing would ſerve but <hi>aut Caeſar, aut Nullus,</hi> and that would have done too; had he been as good as his promiſe to him that was the next him in Power, and had he came in his roome, a Free-ſtate had not been dreampt on, but we ſawe the dignity and honour was going in another Channell, and no hope of comming to us, which is intollerable: lets bring all even againe, and then may I come in and be cheife, if this were the thoughts of but one, it were pretty well, but is not this the thoughts of many? great hopes of a Free-ſtate: And certainely the cheif grounds of our confuſions are, that all would be Governours, and the hearts of moſt, I meane of the men in Power, are ſtuffed with exceſſive pride, and can never ſubiect themſelves to any ſubordination, or live as ſubject, and if all be Governours, there are no Governors, like a baſtard that is <hi>filius populi, is nullius filius,</hi> he that hath every one for his Father, hath no Father at all.</p>
+               <p>
+                  <hi>Thirdly in reſpect of the thing it ſelf, which we muſt call a Common<g ref="char:EOLhyphen"/>wealth or Free State.</hi>
+               </p>
+               <p>A Free State? how Free? What! within the meaning of <hi>Magna Carta, cap</hi> 1. <hi>Libera pro liberata?</hi> That is, that our poſſeſſions and goods ſhall be freed from all un<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>uſt Taxations and Oppreſſions, and a reſtitution made to us of our antient Rights and Liberties, and a freeing us from ſuch Impoſitions and Services as have been uſurped and encroached upon us by illegall Power: which is but declaratory of the common Laws of <hi>England?</hi> Or within <hi>Magna Charta cap.</hi> 9. Where Freedome and Liberties ſignifie particular intereſt and Liberties, which they have or ought to have either by lawfull grant or preſcri<g ref="char:EOLhyphen"/>ption? I pray lets have ſuch a Free State, and I'le ſay no more, but thanks. But is it not meant a Free State, that every one ſhall be free to do that which is good in his own eyes, or that every one ſhall be free to do what he hath power enough to do, or that every one ſhall be free in <hi>Hobſon</hi>'s choiſe, to take, enjoy, or have what the Army will ſuffer us to take, enjoy, or
+<pb n="14" facs="tcp:116055:8"/>have, or nothing? or Free in paying the Souldiers, or Free to doe what the Army would have us. Let the People think of this.</p>
+               <p>But if they mean a Government by the Peoples Repreſen<g ref="char:EOLhyphen"/>tatives onely, which is a Democracy, let them tell us ſo: why do not the People chooſe them? What have the Army to doe to chooſe men to make laws to binde me or my eſtate? What tell they me that the People choſe thoſe men? Tis true, but not to play ſuch tricks as they have done: I told you before, they had abuſed their Authority, and it was taken away from them.</p>
+               <p>But think of a Democracy rightly ordered, That the Kee<g ref="char:EOLhyphen"/>pers, <hi>&amp;c.</hi> would have? but let them take heed, for if theſe Mounſiers once leave the Houſe, they are like never to come there againe: And as for the Souldiers, let the people have their choiſe, and they would chooſe to have them hanged. Beſides a Democracy ſquares not with the <hi>genius</hi> of this People; and while <hi>Harrinton</hi> (ſpeaking well of a Common<g ref="char:EOLhyphen"/>wealth in general) would fit and calculate it for our Horizon, becauſe it ſuits with other Nations, he talks like an aſſe; for the laws of every Nation are ſuited to the conſtitution of the People: were it poſſible now to alter the Fundamentall po<g ref="char:EOLhyphen"/>ſitive ancient Common Law of this Nation concerning men and times? Its impoſſible; however eager Wolves may bark at the Moon: And its as impoſſible to ſubdue the hearts of the People to another frame of Government, to have it continue long. Alas! after the Kings death, the people, poor, beaten, ty<g ref="char:EOLhyphen"/>red, Parliament-ridden wretches, were content to have any thing to be quiet; but as ſoon as <hi>Oliver</hi> ſtept up into the chair; ſee how willingly they conſpired with him? How chearfully they embraced him? Which was onely becauſe of the Govern<g ref="char:EOLhyphen"/>ment, and the reduction of the ancient known Laws, and Supremacy into the ancient Channel, for as for his perſon, they deemed him a Traytor.</p>
+               <pb n="15" facs="tcp:116055:8"/>
+               <p>As for Oligarchy, a government by a few, a Senate, by the Officers of the Army; its ſo ſenſeleſſe, I'le not think of it.</p>
+               <p>But this Il'e ſay, let them that wiſh for <hi>Charls Stuarts</hi> com<g ref="char:EOLhyphen"/>ming in again, make all they can for an Oligarchy; howe<g ref="char:EOLhyphen"/>ver a Democracy will do it: and let the Souldiers alone and be quiet: For let them have a common Enemy, or any power to oppoſe, theyl'e joyn and be unanimous in ſuch a buſineſſe. But let them reſt, and have nothing to do, and they'le make ſomething to do: Let them be idle and they'le be buſie; and if they can finde no buſineſs, they'le make ſome; Give them no occaſion of fighting with others, and my life for it, they'le fight with themſelves; <hi>And when Thieves fall out, honeſt men will come by their own.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
